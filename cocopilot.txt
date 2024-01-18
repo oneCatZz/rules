@@ -1,0 +1,5 @@
+#NAME: cocopilot
+#DESC: 使用cocopilot时需要指定以下域名的请求防止跳IP,避免被车主Ban
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,cocopilot.org
