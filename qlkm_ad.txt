@@ -1,0 +1,8 @@
+#NAME: 亲邻开门app
+#DESC: 亲邻开门APP去广告补充，配合其他的去广告规则
+DOMAIN,pic-mall.qinlinad.com
+DOMAIN,mall-dsp2.qinlinkeji.com
+DOMAIN,qadp.qinlinkeji.com
+DOMAIN,qlp.qinlinad.com
+DOMAIN,qadx.qinlinad.com
+DOMAIN,file.qinlinad.com
