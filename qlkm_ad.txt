@@ -1,5 +1,7 @@
 #NAME: 亲邻开门app
-#DESC: 亲邻开门APP去广告补充，配合其他的去广告规则
+#DESC: 亲邻开门APP去广告补充，还有一部分是其他的API的广告，配合其他的去广告规则
+# https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt
+# https://adrules.top/adrules.list
 DOMAIN,pic-mall.qinlinad.com
 DOMAIN,mall-dsp2.qinlinkeji.com
 DOMAIN,qadp.qinlinkeji.com
