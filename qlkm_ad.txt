@@ -8,3 +8,5 @@ DOMAIN,qadp.qinlinkeji.com
 DOMAIN,qlp.qinlinad.com
 DOMAIN,qadx.qinlinad.com
 DOMAIN,file.qinlinad.com
+DOMAIN,t-dsp.pinduoduo.com
+DOMAIN-KEYWORD,360os
