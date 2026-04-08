@@ -1,2 +1,0 @@
-DOMAIN,my.1password.com
-DOMAIN,start.1password.com
